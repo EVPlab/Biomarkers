@@ -2,7 +2,7 @@
 ### [A Biomarker-Based Framework for the Prediction of Future chronic pain](https://www.medrxiv.org/content/10.1101/2024.04.19.24306101v1)
 ###### Matt Fillingim, Christophe Tanguay-Sabourin, Marc Parisien, Azin Zare, Gianluca V. Guglietti1, Jax Norman, Bogdan Petre, Andrey Bortsov, Mark Ware, Jordi Perez, Mathieu Roy, Luda Diatchenko1 & Etienne Vachon-Presseau
 
-![Image Alt Text](https://github.com/EVPlab/Biomarkers/blob/main/Schematic.png?raw=true)
+![Image Alt Text]([https://github.com/EVPlab/Biomarkers/blob/main/Schematic.png?raw=true](https://github.com/EVPlab/Biomarkers/blob/main/Schematic.png?raw=true))
 
 # **Background**
 This paper leverages large-scale biomedical datasets to derive, validate, and optimize biomarkers for chronic pain and its associated conditions.
