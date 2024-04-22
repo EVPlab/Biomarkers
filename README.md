@@ -1,9 +1,7 @@
 # Chronic-Pain-Biomarkers
-A Biomarker-Based Framework for the Prediction of Future Chronic Pain
 
-**Authors:** Christophe Tanguay-Sabourin, Matt Fillingim, Gianluca V Guglietti, Azin Zare, Marc Parisien, Jax Norman, Hilary Sweatman, Ronrick Da-ano, Eveliina Heikkala, PREVENT-AD Research Group, Jordi Perez, Jaro Karppinen, Sylvia Villeneuve, Scott J Thompson, Marc O Martel, Mathieu Roy, Luda Diatchenko, Etienne Vachon-Presseau
-
-**Paper Title:** [A prognostic risk score for development and spread of chronic pain](#)
+[A Biomarker-Based Framework for the Prediction of Future Chronic Pain](https://www.medrxiv.org/content/10.1101/2024.04.19.24306101v1)
+Matt Fillingim, Christophe Tanguay-Sabourin, Marc Parisien, Azin Zare, Gianluca V. Guglietti, Jax Norman, Bogdan Petre, Andrey Bortsov, Mark Ware, Jordi Perez, Mathieu Roy, Luda Diatchenko, & Etienne Vachon-Presseau1
 
 ## Background
 
