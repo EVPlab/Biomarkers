@@ -3,8 +3,7 @@
 ###### Matt Fillingim, Christophe Tanguay-Sabourin, Marc Parisien, Azin Zare, Gianluca V. Guglietti1, Jax Norman, Bogdan Petre, Andrey Bortsov, Mark Ware, Jordi Perez, Mathieu Roy, Luda Diatchenko1 & Etienne Vachon-Presseau
 
 # **Background**
-This paper is a comprehensive effort to integrate features from different disciplines to better
-understand, characterize, and predict biomarkers of chronic pain and its associated conditions.
+This paper leverages large-scale biomedical datasets to derive, validate, and optimize biomarkers for chronic pain and its associated conditions.
 
 Study highlights:
 
